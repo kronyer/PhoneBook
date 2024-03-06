@@ -2,6 +2,13 @@
 <p>A c# project with Sqlite, Entity Framework and Spectre.Console</p>
 <p>You can store your contacts with name, email and phone number</p>
 <p>Basic CRUD operations in console</p>
+<img src="https://github.com/kronyer/PhoneBook/assets/152650887/81a5c164-887d-4ee7-9a4b-e3c6b5c949e1" width="400px">
+<img src="https://github.com/kronyer/PhoneBook/assets/152650887/563c5750-db57-4fa2-b9f4-74a94d1c181a" width="400px">
+<img src="https://github.com/kronyer/PhoneBook/assets/152650887/c74bad6d-311e-45dc-847a-27b1c5a5b1ad)" width="400px">
+
+
+
+
 
 <h2>Features</h2>
 <ul>
