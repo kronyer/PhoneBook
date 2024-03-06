@@ -45,5 +45,5 @@
   <li>Stack Overflow</li>
   <li>Youtube</li>
   <li>Chat GPT</li>
-  <li>Community and videos of <a href="https://github.com/TheCSharpAcademy"></li>
+  <li>Community and videos of <a href="https://github.com/TheCSharpAcademy">CSharpAcademy</a></li>
 </ul>
