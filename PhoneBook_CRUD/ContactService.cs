@@ -1,7 +1,4 @@
 ﻿using Spectre.Console;
-using System.Net;
-using System.Net.Mail;
-using System.Reflection;
 
 namespace PhoneBook_CRUD
 {
@@ -43,9 +40,7 @@ namespace PhoneBook_CRUD
             string name = AnsiConsole.Ask<string>("Contact's new name:");
             string email = AnsiConsole.Ask<string>("Contact's new email:");
             string phoneNumber = AnsiConsole.Ask<string>("Contact's new phone number:");
-            ContactController.UpdateContact(name, email, phoneNumber);
+            ContactController.UpdateContact(contact, name, email, phoneNumber);
         }
-
-        //usar sqlserver
     }
 }
